@@ -23,3 +23,5 @@ Gerekli paketleri yüklemek için terminale şu komutu yazabilirsiniz:
 
 ```bash
 pip install numpy matplotlib scikit-image
+
+<img width="1483" height="791" alt="Ekran görüntüsü 2026-01-04 194401 (1)" src="https://github.com/user-attachments/assets/9c2847d8-3c08-466f-ac64-dc234c64043c" />
