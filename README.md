@@ -1,5 +1,7 @@
 # SVD ile Görüntü Sıkıştırma (Image Compression with SVD)
 
+<img width="1483" height="791" alt="Ekran görüntüsü 2026-01-04 194401 (1)" src="https://github.com/user-attachments/assets/2b8a3c24-3735-49e3-ab65-72915929abae" />
+
 Bu proje, **Python** ve Doğrusal Cebir yöntemi olan **Singular Value Decomposition (SVD)** kullanarak görüntülerin nasıl sıkıştırılabileceğini ve yeniden oluşturulabileceğini gösterir.
 
 Proje, matris ayrıştırma tekniklerinin görüntü işleme üzerindeki etkisini görselleştirmek amacıyla hazırlanmıştır.
@@ -20,8 +22,5 @@ Projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacını
 * Scikit-Image (Görüntü işleme ve yükleme için)
 
 Gerekli paketleri yüklemek için terminale şu komutu yazabilirsiniz:
-
-```bash
-pip install numpy matplotlib scikit-image
-
-<img width="1483" height="791" alt="Ekran görüntüsü 2026-01-04 194401 (1)" src="https://github.com/user-attachments/assets/9c2847d8-3c08-466f-ac64-dc234c64043c" />
+  ```bash
+  pip install numpy matplotlib scikit-image
